@@ -1,4 +1,4 @@
-# English to French Translator 🇬🇧➡️🇫🇷
+# English to French Translator Eng➡️🇫🇷
 
 This project is a simple **English to French Language Translator** built using **Hugging Face Transformers** and **Google Text-to-Speech (gTTS)**.  
 It translates English text into French and can also **play audio** for both the English input and the French output.
